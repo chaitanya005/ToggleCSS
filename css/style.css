@@ -1,0 +1,49 @@
+body{
+    
+    background: green;
+}
+
+.center{
+    text-align: center;
+    color: #fff;
+    
+}
+
+.center h1{
+        background-color:  rgba(50,50,50,0.5);
+        font-size: 3em;
+}
+
+.new{
+    text-align: left;
+    color: black;
+    margin-bottom: 30px;
+    font-size: 1em;
+}
+p{
+    font-size: 2em;
+}
+.new h1{
+    background-color: rgb(50,50,50);
+    color: #fff;
+}
+
+#btn1{
+    color: #fff;
+    padding: 15px;
+    background-color:coral;
+    margin: 15px;
+    font-size: 1rem;
+}
+
+
+#btn2{    
+    
+    color:#fff;
+    padding: 15px;
+    margin: 15px;
+    background-color: indigo;
+    font-size: 1rem;
+   
+    
+}
